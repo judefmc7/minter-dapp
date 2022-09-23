@@ -1,9 +1,9 @@
 const contractAddress = "0x7C3373FeE28793325bd17DaCc6Cda4aFCad448Fb"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the Hardhats Project NFT Drop";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'Hardhats Project is a community for builders. What is the definition of a builder? Builders are people who strive to express their ideas into the world, whether in tech, art, business or some other field. The hardhat symbolizes their  determination. If you are a builder or an aspiring builder, then this is for you. Check out the <a href="https://www.hardhatsproject.com/"  target="_blank" rel="noopener noreferrer">Hardhats Project</a> website!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
